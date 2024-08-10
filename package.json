@@ -1,0 +1,21 @@
+{
+  "name": "kf9-countdown-timer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kashaf",
+  "license": "ISC",
+  "description": "Countdown Timer with typescript, inquirer and node.js",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "inquirer": "^10.0.1"
+  }
+}
